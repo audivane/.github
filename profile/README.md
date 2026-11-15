@@ -10,10 +10,16 @@
   <a href="https://audivane.app">audivane.app</a>
 </p>
 
-| | |
-| --- | --- |
-| **[DSP](https://github.com/audivane/dsp)** · beta | System-wide parametric EQ, convolution and up to 4M-tap upsampling for Linux and PipeWire, in 64-bit float. The engine runs on your DAC's own clock, and every filter is plotted from its measured response. Arch, Ubuntu/Debian, Fedora. |
-| **[ABX](https://github.com/audivane/abx)** | Blind ABX tests of audio codecs (MP3, AAC, Opus, aptX, LDAC and more) with your own music. Both sides are encoded locally, level-matched and verified, with a binomial result at the end. [Try it in the browser](https://audivane.app/abx/demo/), or get it for Linux and Windows. |
+**[DSP](https://github.com/audivane/dsp)** (beta): System-wide parametric EQ,
+convolution and up to 4M-tap upsampling for Linux and PipeWire, in 64-bit
+float. The engine runs on your DAC's own clock, and every filter is plotted
+from its measured response. Arch, Ubuntu/Debian, Fedora.
+
+**[ABX](https://github.com/audivane/abx)**: Blind ABX tests of audio codecs
+(MP3, AAC, Opus, aptX, LDAC and more) with your own music. Both sides are
+encoded locally, level-matched and verified, with a binomial result at the end.
+[Try it in the browser](https://audivane.app/abx/demo/), or get it for Linux
+and Windows.
 
 Both are free software under the AGPL-3.0. Bug reports and pull requests are
 welcome; contributions need a one-time CLA.
